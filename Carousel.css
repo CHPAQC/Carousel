@@ -79,7 +79,7 @@
 }
 button{
     flex: 1;
-    background-color: aliceblue;
+    background-color: initial;
     border: 1px black solid;
 }
 button:hover {
